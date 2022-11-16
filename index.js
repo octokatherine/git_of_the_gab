@@ -4,6 +4,7 @@ var confetti = new ConfettiGenerator(confettiSettings);
 const dictionary = {
   "burden demand": "bird in the hand",
   "draw hint thub uck it": "drop in the bucket",
+  "faux matt them owth": "foam at the mouth",
   "ace lip puff that hung": "a slip of the tongue"
 }
 
